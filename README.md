@@ -1,6 +1,6 @@
 RubiksCubeSolver
 ================
-It is a program for a NXT to solve a Rubik's Cube.
+It is a program for a NXT that solves a Rubik's Cube.
   
   
 SPECS:
