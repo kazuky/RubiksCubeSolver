@@ -4,18 +4,30 @@ It is a program for a NXT to solve a Rubik's Cube.
   
   
 SPECS:
-  Accuracy: 50%
-    *Mostly because the color sensor can't detect the difference between RED and ORANGE.
-    *If you don't set it up perfectly, it won't work ether.
-    *There is no bug in this program.(I think...)
+
+
+   Accuracy: 50%
+   
+      *Mostly because the color sensor can't detect the difference between RED and ORANGE.
+      
+      *If you don't set it up perfectly, it won't work ether.
+      
+      *There is no bug in this program.(I think...)
+      
     
-  Time: 4-5 min.
-    *50 sec. to scan
-    *15 sec. to calculate
-    *3-4min. to solve
+   Time: 4-5 min.
+   
+      *50 sec. to scan
+      
+      *15 sec. to calculate
+      
+      *3-4min. to solve
+      
     
-  # of moves: 100
-    *Usually, it takes less than 100 moves to solve it.
+   # of moves: 100
+   
+      *Usually, it takes less than 100 moves to solve it.
+      
     
     
 STEPS:
